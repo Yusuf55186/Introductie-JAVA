@@ -1,0 +1,13 @@
+size(600,400);
+int x;
+x = 200;
+int y;
+y = 200;
+noFill();
+ellipse(x,y,100,100);
+noFill();
+ellipse(x+80,y,100,100);
+noFill();
+ellipse(x+150,y,100,100);
+ellipse(x+40,y+60,100,100);
+ellipse(x+130,y+60,100,100);

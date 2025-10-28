@@ -1,0 +1,11 @@
+size(600,400);
+int x;
+x=50;
+int y;
+y=50;
+int breedte;
+breedte=100;
+int hoogte;
+hoogte=100;
+noFill();
+arc(x+150,y+150,breedte+50,hoogte+40,0,1*PI);

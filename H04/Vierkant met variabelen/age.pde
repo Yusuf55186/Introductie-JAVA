@@ -1,0 +1,11 @@
+size(600,400);
+background(0,0,0);
+int x ;
+x = 200;
+int y ;
+y= 200;
+int breedte ;
+breedte= 100;
+int hoogte ;
+hoogte= 100;
+rect(x,y,breedte,hoogte);
