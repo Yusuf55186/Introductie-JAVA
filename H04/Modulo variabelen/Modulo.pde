@@ -1,0 +1,12 @@
+int getal1;
+getal1=15%2;
+int getal2;
+getal2 = 31%3;
+int getal3;
+getal3 = 10%5;
+int getal4;
+getal4 = 38%4;
+println(getal1);
+println(getal2);
+println(getal3);
+println(getal4);

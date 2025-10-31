@@ -1,0 +1,12 @@
+int a = 50;
+int b = 23;
+int ab= a += b;
+println(ab);
+int c = 60;
+int d = 73;
+int cd= c /= d;
+println(cd);
+int e = 50;
+int f = 23;
+int ef= e *= f;
+println(ef);
